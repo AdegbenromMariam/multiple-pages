@@ -14,3 +14,8 @@
     color: black;
     font-size: 50px;
 }
+
+.subscription {
+    background: aquamarine;
+    width: max-content;
+}
