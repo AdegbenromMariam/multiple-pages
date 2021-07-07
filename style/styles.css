@@ -27,7 +27,16 @@
                     
                     .head2 {
                         position: absolute;
-                        top: 50%;
-                        left: 50%;
-                        transform: translate(-50%, 50%);
+                        top: 10%;
+                        width: 100%;
+                        text-align: center;
+                        padding-top: 15px;
+                        padding-bottom: 15px;
+                    }
+                    
+                    .card-img-top {
+                        padding: 20px;
+                        margin: auto;
+                        box-shadow: 10px 10px 5px;
+                        border-radius: 25px;
                     }
