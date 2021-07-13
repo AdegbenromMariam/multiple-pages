@@ -1,42 +1,58 @@
-                    .intro {
-                        position: relative;
-                    }
-                    
-                    .head {
-                        position: absolute;
-                        top: 50%;
-                        left: 50%;
-                        transform: translate(-50%, 50%);
-                        color: white;
-                    }
-                    
-                    .h1 {
-                        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-                        color: black;
-                        font-size: 50px;
-                    }
-                    
-                    .subscription {
-                        background: aquamarine;
-                        width: max-content;
-                    }
-                    
-                    .intro2 {
-                        position: relative;
-                    }
-                    
-                    .head2 {
-                        position: absolute;
-                        top: 10%;
-                        width: 100%;
-                        text-align: center;
-                        padding-top: 15px;
-                        padding-bottom: 15px;
-                    }
-                    
-                    .card-img-top {
-                        padding: 20px;
-                        margin: auto;
-                        box-shadow: 10px 10px 5px;
-                        border-radius: 25px;
-                    }
+                .intro {
+                    position: relative;
+                }
+                
+                .head {
+                    position: absolute;
+                    top: 50%;
+                    left: 50%;
+                    transform: translate(-50%, 50%);
+                    color: white;
+                }
+                
+                .h1 {
+                    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+                    color: black;
+                    font-size: 50px;
+                }
+                
+                .subscription {
+                    background: aquamarine;
+                    width: max-content;
+                }
+                
+                .intro2 {
+                    position: relative;
+                }
+                
+                .head2 {
+                    position: absolute;
+                    top: 10%;
+                    width: 100%;
+                    text-align: center;
+                    padding-top: 15px;
+                    padding-bottom: 15px;
+                }
+                
+                .card-img-top {
+                    padding: 20px;
+                    margin: auto;
+                    box-shadow: 10px 10px 5px;
+                    border-radius: 25px;
+                }
+                
+                .card-title {
+                    color: red;
+                }
+                
+                .btn-info {
+                    border-radius: 25px;
+                }
+                
+                .btn-success {
+                    border-radius: 25px;
+                }
+                
+                .btn-danger {
+                    border-radius: 25px;
+                }
