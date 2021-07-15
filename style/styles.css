@@ -39,6 +39,7 @@
                     margin: auto;
                     box-shadow: 10px 10px 5px;
                     border-radius: 25px;
+                    width: 100%;
                 }
                 
                 .card-title {
@@ -47,12 +48,19 @@
                 
                 .btn-info {
                     border-radius: 25px;
+                    padding: 10px;
                 }
                 
                 .btn-success {
                     border-radius: 25px;
+                    padding: 10px;
                 }
                 
                 .btn-danger {
                     border-radius: 25px;
+                    padding: 10px;
+                }
+                
+                a {
+                    text-decoration: none;
                 }
